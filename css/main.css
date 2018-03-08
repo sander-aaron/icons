@@ -29,10 +29,14 @@ li::before {
   display: none;
 }
 
-ul{
+ol{
   padding: 0;
 }
 
 span {
   color: #000;
+}
+
+img {
+  display: none;
 }
